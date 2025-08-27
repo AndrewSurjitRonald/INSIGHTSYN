@@ -1,0 +1,13 @@
+# For the web application and core AI models
+streamlit
+transformers
+torch
+sentencepiece
+
+# For audio processing (SynTone)
+librosa
+soundfile
+
+# For semantic clustering (SynMind)
+sentence-transformers
+scikit-learn
